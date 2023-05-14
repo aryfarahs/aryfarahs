@@ -1,6 +1,6 @@
 # <p align="center"> Olá, sou Ary Farah </p>
 ## Bem vindo ao meu perfil!
-Sou um estudante de Engenharia de Software da PUCPR, e busco me conectar com outros programadores sempre para aumentar meu conhecimento e experiência.
+Sou um estudante de Engenharia de Software da PUCPR, e busco me conectar com outros programadores para aumentar meu conhecimento e experiência.
 ### Sobre mim:
 - 18 anos  
 - 1º período de Engenharia de Software - PUCPR  
